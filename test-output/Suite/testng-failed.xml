@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="amazonflights_test.Test2_LoginAmazonFlights">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="flightLogin"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test2_LoginAmazonFlights -->
+      <class name="amazonflights_test.Test5_SearchRoundTripFlights">
+        <methods>
+          <include name="searching_roundtripflights"/>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test5_SearchRoundTripFlights -->
+      <class name="amazonflights_test.Test15_FlightBookingPayment">
+        <methods>
+          <include name="payment_flightbooking"/>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test15_FlightBookingPayment -->
+      <class name="amazonflights_test.Test6_SearchResultforDifferentClasses">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="validating_SearchResultforDifferentClasses"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test6_SearchResultforDifferentClasses -->
+      <class name="amazonflights_test.Test14_DomesticRoundTripFlight">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+          <include name="searching_domesticRoundTripFlight"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test14_DomesticRoundTripFlight -->
+      <class name="amazonflights_test.Test12_LogoutSite">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+          <include name="logout_amazonflights"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test12_LogoutSite -->
+      <class name="amazonflights_test.Test9_MultiplePassangersInSingleBooking">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+          <include name="handling_multiplepax_insinglebooking"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test9_MultiplePassangersInSingleBooking -->
+      <class name="amazonflights_test.Test4_SearchOneWayFlights">
+        <methods>
+          <include name="searching_oneway_flights"/>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test4_SearchOneWayFlights -->
+      <class name="amazonflights_test.Test11_ValidateEveryTextField">
+        <methods>
+          <include name="validating_evrytextfield"/>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test11_ValidateEveryTextField -->
+      <class name="amazonflights_test.Test13_ApplyCouponCode">
+        <methods>
+          <include name="quit_browser"/>
+          <include name="launch_browser"/>
+          <include name="apply_offercode"/>
+        </methods>
+      </class> <!-- amazonflights_test.Test13_ApplyCouponCode -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

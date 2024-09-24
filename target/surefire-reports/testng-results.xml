@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+    <line>
+      <![CDATA[Test case is pass, check screenshot for better info]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-24T06:12:00 IST" name="Suite" finished-at="2024-09-24T06:22:23 IST" duration-ms="623730">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T06:12:00 IST" name="Test" finished-at="2024-09-24T06:22:23 IST" duration-ms="623730">
+      <class name="amazonflights_test.Test4_SearchOneWayFlights">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test4_SearchOneWayFlights@38cee291]" started-at="2024-09-24T06:12:25 IST" name="launch_browser" finished-at="2024-09-24T06:12:30 IST" duration-ms="4812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="searching_oneway_flights()[pri:0, instance:amazonflights_test.Test4_SearchOneWayFlights@38cee291]" started-at="2024-09-24T06:12:30 IST" name="searching_oneway_flights" finished-at="2024-09-24T06:12:52 IST" duration-ms="22263" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searching_oneway_flights -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test4_SearchOneWayFlights@38cee291]" started-at="2024-09-24T06:12:53 IST" name="quit_browser" finished-at="2024-09-24T06:13:03 IST" duration-ms="10415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test4_SearchOneWayFlights -->
+      <class name="amazonflights_test.Test12_LogoutSite">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test12_LogoutSite@45099dd3]" started-at="2024-09-24T06:19:15 IST" name="launch_browser" finished-at="2024-09-24T06:19:20 IST" duration-ms="5333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="logout_amazonflights()[pri:0, instance:amazonflights_test.Test12_LogoutSite@45099dd3]" started-at="2024-09-24T06:19:20 IST" name="logout_amazonflights" finished-at="2024-09-24T06:19:45 IST" duration-ms="25052" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout_amazonflights -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test12_LogoutSite@45099dd3]" started-at="2024-09-24T06:19:46 IST" name="quit_browser" finished-at="2024-09-24T06:19:56 IST" duration-ms="10396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test12_LogoutSite -->
+      <class name="amazonflights_test.Test14_DomesticRoundTripFlight">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test14_DomesticRoundTripFlight@1ffaf86]" started-at="2024-09-24T06:20:39 IST" name="launch_browser" finished-at="2024-09-24T06:20:43 IST" duration-ms="4371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="searching_domesticRoundTripFlight()[pri:0, instance:amazonflights_test.Test14_DomesticRoundTripFlight@1ffaf86]" started-at="2024-09-24T06:20:43 IST" name="searching_domesticRoundTripFlight" finished-at="2024-09-24T06:21:09 IST" duration-ms="25399" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searching_domesticRoundTripFlight -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test14_DomesticRoundTripFlight@1ffaf86]" started-at="2024-09-24T06:21:09 IST" name="quit_browser" finished-at="2024-09-24T06:21:19 IST" duration-ms="10358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test14_DomesticRoundTripFlight -->
+      <class name="amazonflights_test.Test2_LoginAmazonFlights">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test2_LoginAmazonFlights@27f981c6]" started-at="2024-09-24T06:12:00 IST" name="launch_browser" finished-at="2024-09-24T06:12:06 IST" duration-ms="6770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="flightLogin()[pri:0, instance:amazonflights_test.Test2_LoginAmazonFlights@27f981c6]" started-at="2024-09-24T06:12:06 IST" name="flightLogin" finished-at="2024-09-24T06:12:09 IST" duration-ms="2957" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flightLogin -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test2_LoginAmazonFlights@27f981c6]" started-at="2024-09-24T06:12:14 IST" name="quit_browser" finished-at="2024-09-24T06:12:25 IST" duration-ms="11107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test2_LoginAmazonFlights -->
+      <class name="amazonflights_test.Test8_SeatSelection">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test8_SeatSelection@e350b40]" started-at="2024-09-24T06:15:01 IST" name="launch_browser" finished-at="2024-09-24T06:15:07 IST" duration-ms="5875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="flightseatselection()[pri:0, instance:amazonflights_test.Test8_SeatSelection@e350b40]" started-at="2024-09-24T06:15:07 IST" name="flightseatselection" finished-at="2024-09-24T06:15:51 IST" duration-ms="43720" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flightseatselection -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test8_SeatSelection@e350b40]" started-at="2024-09-24T06:15:51 IST" name="quit_browser" finished-at="2024-09-24T06:16:01 IST" duration-ms="10432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test8_SeatSelection -->
+      <class name="amazonflights_test.Test11_ValidateEveryTextField">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test11_ValidateEveryTextField@6340e5f0]" started-at="2024-09-24T06:18:26 IST" name="launch_browser" finished-at="2024-09-24T06:18:31 IST" duration-ms="4511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="validating_evrytextfield()[pri:0, instance:amazonflights_test.Test11_ValidateEveryTextField@6340e5f0]" started-at="2024-09-24T06:18:31 IST" name="validating_evrytextfield" finished-at="2024-09-24T06:19:05 IST" duration-ms="33823" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validating_evrytextfield -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test11_ValidateEveryTextField@6340e5f0]" started-at="2024-09-24T06:19:05 IST" name="quit_browser" finished-at="2024-09-24T06:19:15 IST" duration-ms="10389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test11_ValidateEveryTextField -->
+      <class name="amazonflights_test.Test10_Validatedetails_FightFareBaggageCanc">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test10_Validatedetails_FightFareBaggageCanc@2794eab6]" started-at="2024-09-24T06:17:31 IST" name="launch_browser" finished-at="2024-09-24T06:17:38 IST" duration-ms="6915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="validating_various_details()[pri:0, instance:amazonflights_test.Test10_Validatedetails_FightFareBaggageCanc@2794eab6]" started-at="2024-09-24T06:17:38 IST" name="validating_various_details" finished-at="2024-09-24T06:18:16 IST" duration-ms="37340" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validating_various_details -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test10_Validatedetails_FightFareBaggageCanc@2794eab6]" started-at="2024-09-24T06:18:16 IST" name="quit_browser" finished-at="2024-09-24T06:18:26 IST" duration-ms="10451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test10_Validatedetails_FightFareBaggageCanc -->
+      <class name="amazonflights_test.Test13_ApplyCouponCode">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test13_ApplyCouponCode@13e344d]" started-at="2024-09-24T06:19:56 IST" name="launch_browser" finished-at="2024-09-24T06:20:01 IST" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="apply_offercode()[pri:0, instance:amazonflights_test.Test13_ApplyCouponCode@13e344d]" started-at="2024-09-24T06:20:01 IST" name="apply_offercode" finished-at="2024-09-24T06:20:29 IST" duration-ms="27882" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- apply_offercode -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test13_ApplyCouponCode@13e344d]" started-at="2024-09-24T06:20:29 IST" name="quit_browser" finished-at="2024-09-24T06:20:39 IST" duration-ms="10371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test13_ApplyCouponCode -->
+      <class name="amazonflights_test.Test6_SearchResultforDifferentClasses">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test6_SearchResultforDifferentClasses@f09733f]" started-at="2024-09-24T06:13:48 IST" name="launch_browser" finished-at="2024-09-24T06:13:53 IST" duration-ms="5631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="validating_SearchResultforDifferentClasses()[pri:0, instance:amazonflights_test.Test6_SearchResultforDifferentClasses@f09733f]" started-at="2024-09-24T06:13:53 IST" name="validating_SearchResultforDifferentClasses" finished-at="2024-09-24T06:14:51 IST" duration-ms="57378" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validating_SearchResultforDifferentClasses -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test6_SearchResultforDifferentClasses@f09733f]" started-at="2024-09-24T06:14:51 IST" name="quit_browser" finished-at="2024-09-24T06:15:01 IST" duration-ms="10475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test6_SearchResultforDifferentClasses -->
+      <class name="amazonflights_test.Test9_MultiplePassangersInSingleBooking">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test9_MultiplePassangersInSingleBooking@6574a52c]" started-at="2024-09-24T06:21:19 IST" name="launch_browser" finished-at="2024-09-24T06:21:23 IST" duration-ms="4080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="handling_multiplepax_insinglebooking()[pri:0, instance:amazonflights_test.Test9_MultiplePassangersInSingleBooking@6574a52c]" started-at="2024-09-24T06:21:23 IST" name="handling_multiplepax_insinglebooking" finished-at="2024-09-24T06:22:13 IST" duration-ms="49146" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handling_multiplepax_insinglebooking -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test9_MultiplePassangersInSingleBooking@6574a52c]" started-at="2024-09-24T06:22:13 IST" name="quit_browser" finished-at="2024-09-24T06:22:23 IST" duration-ms="10448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test9_MultiplePassangersInSingleBooking -->
+      <class name="amazonflights_test.Test15_FlightBookingPayment">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test15_FlightBookingPayment@41a0aa7d]" started-at="2024-09-24T06:16:01 IST" name="launch_browser" finished-at="2024-09-24T06:16:08 IST" duration-ms="6443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="payment_flightbooking()[pri:0, instance:amazonflights_test.Test15_FlightBookingPayment@41a0aa7d]" started-at="2024-09-24T06:16:08 IST" name="payment_flightbooking" finished-at="2024-09-24T06:17:21 IST" duration-ms="72793" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- payment_flightbooking -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test15_FlightBookingPayment@41a0aa7d]" started-at="2024-09-24T06:17:21 IST" name="quit_browser" finished-at="2024-09-24T06:17:31 IST" duration-ms="10461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test15_FlightBookingPayment -->
+      <class name="amazonflights_test.Test5_SearchRoundTripFlights">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:amazonflights_test.Test5_SearchRoundTripFlights@4b45a2f5]" started-at="2024-09-24T06:13:03 IST" name="launch_browser" finished-at="2024-09-24T06:13:08 IST" duration-ms="5428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="searching_roundtripflights()[pri:0, instance:amazonflights_test.Test5_SearchRoundTripFlights@4b45a2f5]" started-at="2024-09-24T06:13:08 IST" name="searching_roundtripflights" finished-at="2024-09-24T06:13:37 IST" duration-ms="28403" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case is pass, check screenshot for better info]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searching_roundtripflights -->
+        <test-method is-config="true" signature="quit_browser()[pri:0, instance:amazonflights_test.Test5_SearchRoundTripFlights@4b45a2f5]" started-at="2024-09-24T06:13:37 IST" name="quit_browser" finished-at="2024-09-24T06:13:48 IST" duration-ms="10430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_browser -->
+      </class> <!-- amazonflights_test.Test5_SearchRoundTripFlights -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
